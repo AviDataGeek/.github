@@ -1,4 +1,4 @@
-# AviDataGeek Team ✈️🔍
+# Hello there! ✈️🔍
 
 Welcome to AviationDataGeeks, where aviation meets data science! 🚀 We're a co-founded organization on a mission to revolutionize the aviation industry through data-driven solutions, fostering collaboration, and innovation.
 
@@ -12,12 +12,10 @@ Welcome to AviationDataGeeks, where aviation meets data science! 🚀 We're a co
 
 ## Get Involved 🤝🚀
 
-1. **Join our Community:** Connect with fellow aviation enthusiasts and professionals in our vibrant community forums. Share experiences, ask questions, and collaborate on exciting projects.
-
-2. **Contribute to Projects:** Make a difference in the aviation industry by exploring and contributing to our open-source projects. Whether you're a developer, data scientist, or aviation expert, there's a spot for you.
+1. **Contribute to Projects:** Make a difference in the aviation industry by exploring and contributing to our open-source projects. Whether you're a developer, data scientist, or aviation expert, there's a spot for you.
 
 ## Get in Touch 📬🌐
 
-Questions or suggestions? We'd love to hear from you! Reach out to us on [Twitter](https://twitter.com/AviationDataGeeks) or connect with our [organization founders on GitHub](https://github.com/orgs/AviDataGeek/people).
+Questions or suggestions? We'd love to hear from you! Reach out to us with our [organization founders on GitHub](https://github.com/orgs/AviDataGeek/people).
 
 Let's soar to new heights with data and innovation! 🌟
